@@ -1,0 +1,22 @@
+===== CROSS VALIDATION =====
+Accuracy CV moyenne: 0.7447075800016977
+Accuracy CV std: 0.04564676824916325
+ROC-AUC CV moyenne: 0.8366380153738644
+
+===== TEST SET EVALUATION =====
+Accuracy: 0.7207792207792207
+ROC-AUC: 0.8133333333333334
+Matrice de confusion:
+[[65 35]
+ [ 8 46]]
+
+Rapport de classification:
+              precision    recall  f1-score   support
+
+           0       0.89      0.65      0.75       100
+           1       0.57      0.85      0.68        54
+
+    accuracy                           0.72       154
+   macro avg       0.73      0.75      0.72       154
+weighted avg       0.78      0.72      0.73       154
+
