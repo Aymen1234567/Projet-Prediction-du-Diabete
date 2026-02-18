@@ -1,0 +1,19 @@
+Logistic Regression Results
+---------------------------------
+Accuracy: 0.7077922077922078
+ROC-AUC: 0.8161111111111111
+
+Confusion Matrix:
+[[81 19]
+ [26 28]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.81      0.78       100
+           1       0.60      0.52      0.55        54
+
+    accuracy                           0.71       154
+   macro avg       0.68      0.66      0.67       154
+weighted avg       0.70      0.71      0.70       154
+
